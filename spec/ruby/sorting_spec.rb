@@ -1,5 +1,5 @@
-require_relative 'spec_helper'
-require_relative '../sorting'
+require_relative '../spec_helper'
+require_relative '../../ruby/sorting'
 
 describe "Sorting Algorithm Results" do
 

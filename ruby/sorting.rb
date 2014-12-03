@@ -78,9 +78,11 @@ class Array
   #   end
   # end
 
+  #TODO
   def insertion_sort
   end
 
+  #TODO
   def merge_sort
   end
 

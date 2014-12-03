@@ -1,5 +1,5 @@
-require_relative 'spec_helper'
-require_relative '../b_search'
+require_relative '../spec_helper'
+require_relative '../../ruby/b_search'
 
 describe "Bsearch Results" do
 
